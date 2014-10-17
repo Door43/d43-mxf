@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxf:home|Door43 (mxf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxf|d43-mxf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxf/archive/master.zip|d43-mxf.zip]]
+
+**Recent Changes**
+{{changes>ns = mxf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxf|Ethnologue data]]
+
